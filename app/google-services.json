@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "972159325338",
+    "firebase_url": "https://easy-health-10328.firebaseio.com",
+    "project_id": "easy-health-10328",
+    "storage_bucket": "easy-health-10328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972159325338:android:567be19e77e2dc6a1ffb23",
+        "android_client_info": {
+          "package_name": "com.example.joyeeta.easyHealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4JLqX3e7on64dvSSMucQWiPVuGeKFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

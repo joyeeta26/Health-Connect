@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\9f2f8ff7086ca2d07fedaeb75432862ea9908ebc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6060df571f0dd5c1375f74733a3b412c8330c864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b49c469061f5a95c45cac8e36b7d222ef178bae0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faeaffc4a99e43076d86a4945fa03f0086bcfcb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\98dcf3b55595a8030f1ad748ac917fd71fc24bab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09d6f5c20e4dfcc381d325491ea317dcdb0fd79c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\69f12a550f4e8de0770249b805809d8787694622\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b6e81edb11c00fb59bfa2a6c7c6c919a42d4805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5a26ba72edefad9d01bb62d50c7d0366dcabd4e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_628c81dec3e22926ba527cfffa4547bcf9c06c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\ea036df05ce9064d98343b8bfd56d57d62a61b93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d043329c6344586d26b1ddbc4c188f855c69c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1205b65dd09b256c41c362e7ba7fa7c11da89b52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0602e46fac54cf386b0f220e646499c1b8736c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\67efc9441ae3ba8f9edb36d8425f9f27481d1842\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0318e9225edd19b9f6680cec790ba18b369f386\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\65a41b24736c1d6a2ce76430a1c6d47201a68400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ec1a2edb6be005de8921e4e8ecb5fa428e3c141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\58a49830c6b4f8fc0fe43903c9d7d8c3461aa7f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ee55af7cdf0bc4f6e27ddfa0bb0effc82a66b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\aa786cd9aa987de7c701e9efef568a7dcf87bdb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5cf9c124a2fd1150e75d6f8fb40a559d5b7e814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\57573425aea13587594fc545b2612207a8669a9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cbcd1815ceabb076c362836a98196c2261d5759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\6e006be253ef54d2d20f4a59ec1f75aff12c8cda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a78ad8f552ffdb2e1c5475f392c9ef43097967e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\003b06050ad4921b9aa9d28268376ba2aecad238\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0df377e571c3dd4082e49ebcf9a6420be9f646b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\f152a193a16c9cbd419fd44b421e4dc99baa4876\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77a703adc7dcfe1f44cf1e57f3988bb77b83e00a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\a4e019aeffdf92e9548cb052f3a49c759f850533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a82f7919decf5719b33772e927de3484be3b3f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\48651bbc8ccd4abf69347afad9233d1da48203ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf71df2af04ebd95c8b83d5c38ea09402b6464b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\beb20a7e2353b6e95159585d2913f2a0de00abe2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86c2ce2b8ed3ef4ce30627d6bb6b8a1726f58457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\8f46d75b6e04f0dc8c8add14b4310e5f52913ed6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdb09014adb258c192c6385aa8ef1be23b4945a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\f1492045e92debd26d66eb07da4e783f28053c56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36842f1b94c1ad6f263b75572ffe678d926562b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\c160c4a1ba6f3c3c5897b02fc08518e66c7d495d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00c9df215ecd8cd34030bb7fba93a788fbdfe579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\85d9365af8e7be12d47d7c99a9c721e139751525\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59acba7a83a2e2712c34036c1072d25a7976a121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\898fbb5973c60c277f6179a3393f781e90f75a71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33b5020ca3ae13d57739e74ba09083d482054b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d2433be7acd2c47ab22cbbc4b55ee3563d784bdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b3e5b02e66626c42865c39d3c11c0f66e620b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5db5c72dbf75cf673007e0176a61a4522abb362e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be745c384912fe5e740e8085f6e23d0d2748f158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5fc33bb1ff336e69b5039b08c24c5092a44e3417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f8d93a86aefe8237db3f1a2234f1a1b90cff382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1205b65dd09b256c41c362e7ba7fa7c11da89b52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0602e46fac54cf386b0f220e646499c1b8736c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b25207dfa7c8be0acea6cabb37023afddf730dbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39d6acff298aa31ad8a2b40fde4ba4d7c371d3e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3020d7737ee2596c8637eed04a2e1849012d966f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3d359213b3c1a6de5be9f32ca5dc3538a72e303d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\85baca9306573535e049d56489738edb93fbddbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_226c7cb392f2a4703807a1396f8762d7650c6277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\9f2f8ff7086ca2d07fedaeb75432862ea9908ebc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6060df571f0dd5c1375f74733a3b412c8330c864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\0331972abfe9ec43643aba139c0bc3e0aca27add\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b391a4bc3b229569c6065b0dc3d60a38fe77de88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_29efa2e61c3b051c5656b9c607062acb88a241c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b49c469061f5a95c45cac8e36b7d222ef178bae0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faeaffc4a99e43076d86a4945fa03f0086bcfcb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_ecd0e5472d46603853ed63a866948f248e99ab39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\eaf953a596c7182a4ea35ca74bb9d5bef13c91c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24cb877ba79eee91c5c2e7f03866e56f66f68c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\67efc9441ae3ba8f9edb36d8425f9f27481d1842\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0318e9225edd19b9f6680cec790ba18b369f386\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\6e006be253ef54d2d20f4a59ec1f75aff12c8cda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a78ad8f552ffdb2e1c5475f392c9ef43097967e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3dfefb6283117be6d7176201b58d05009b381c24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f3d296af248e7c5b224d8e30dda4c859eab9b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\58a49830c6b4f8fc0fe43903c9d7d8c3461aa7f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ee55af7cdf0bc4f6e27ddfa0bb0effc82a66b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\19491cd95d787c5d187892b9d8eaf6b7f74b01eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43d8d264baa8516b75940d2ca9427368ada2bd7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1adc4a78f6f8be749485a4fe683c74ca41a04e3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4804e2ef071de47b36ea2abd67bf7a53c8560c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1adc4a78f6f8be749485a4fe683c74ca41a04e3a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_787dab47f5dd358fa5bc4997202c020b709c2dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\aa786cd9aa987de7c701e9efef568a7dcf87bdb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5cf9c124a2fd1150e75d6f8fb40a559d5b7e814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_48e3e14d9de76f2af0aa3c9b95eb804eca01ba38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\48651bbc8ccd4abf69347afad9233d1da48203ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf71df2af04ebd95c8b83d5c38ea09402b6464b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1d7d02e7149d10b7d7e344f9ee0438b31a888811\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be5f8119fea1154d77b85cd4cb5b3ccedc5b349c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\85d9365af8e7be12d47d7c99a9c721e139751525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59acba7a83a2e2712c34036c1072d25a7976a121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\46ed662ccc91cfb171f9c2755515fc6eb0e1bd37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58782c94fe9bb3c93bfc123bf84df1ebe04c9bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\e7e14a112fa2e5858efdc8aca6981d097da31549\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef01229269cea00565ecf9b99a9bc7a4618f8781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\8f46d75b6e04f0dc8c8add14b4310e5f52913ed6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdb09014adb258c192c6385aa8ef1be23b4945a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\898fbb5973c60c277f6179a3393f781e90f75a71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33b5020ca3ae13d57739e74ba09083d482054b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bee1cc1c7b06439a245234945a7ba5da6c983bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9043c7e499a7d305f4551792874680a7f08e3c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\4c87c5a124b0eaee5c4568894f35e1b0f8134c99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fea941f6d265637e9d0a27d81463ef227f57417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d4b12c495c92ade90006d02b62654fd82f9b3f7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5688cdf905c7dc3e91b7ec6a81421e929e8aff3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\f152a193a16c9cbd419fd44b421e4dc99baa4876\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77a703adc7dcfe1f44cf1e57f3988bb77b83e00a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5fc33bb1ff336e69b5039b08c24c5092a44e3417\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f8d93a86aefe8237db3f1a2234f1a1b90cff382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bee1cc1c7b06439a245234945a7ba5da6c983bd\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_dca9af0d0f37bfc32b0db8d57c32aa7fef3eb350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\19491cd95d787c5d187892b9d8eaf6b7f74b01eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43d8d264baa8516b75940d2ca9427368ada2bd7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\336db4f783ecb219af4c8e8071e20fff8ee5d91e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cede20605163c272b3365e1c65a60481eef5108b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\65a41b24736c1d6a2ce76430a1c6d47201a68400\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ec1a2edb6be005de8921e4e8ecb5fa428e3c141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\aa324a2c9138d81433e5eee761da920dbc59569d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c197f89e625c7982a58f07459582af004a9e25f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Health-Connect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_39ef7a1f340c75a3ecebdebd2ec52e4af7b3a024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b9d6ad2e890d6c9a6b76b6f627af7944e57400a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9309f663c29e40f24a403100c1e0f08c911d3c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\85baca9306573535e049d56489738edb93fbddbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_226c7cb392f2a4703807a1396f8762d7650c6277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3020d7737ee2596c8637eed04a2e1849012d966f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_befd297a72066f8e69966cee3e0d451a4b9a0e98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\0331972abfe9ec43643aba139c0bc3e0aca27add\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8fadaea32d0c022107aaa4ceeef69040a3900d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b8171d6ccad89b37ade7d10d220ea576acb2613b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2674b1842541d5dd8fd16768f8820ac86aad46c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\8bec2afa6618d6544141ff3866ceb01267ed9587\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd533eb927a2e67e4c2a944e066a1da344dfc259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b25207dfa7c8be0acea6cabb37023afddf730dbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39d6acff298aa31ad8a2b40fde4ba4d7c371d3e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3a7cd16894aca18c1afc698e6c2a95d21c2521a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c38bbf9644a627910e21b5a46acaa1e50d796bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1d7d02e7149d10b7d7e344f9ee0438b31a888811\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be5f8119fea1154d77b85cd4cb5b3ccedc5b349c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5a1e1a9eec8e903429d36899988f83869b9777de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21228eb2f47868e8f618ac122183ad2fd1eae1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\27c98a481fed6c29f8b62adaa1b7cda279af3923\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d5f4d019027e87a1b2f149adebfba9c2f842d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\70f0cd9f9acfa897e35292ed76659eee9df7e005\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09bd4ac6ce9c4d4c79e8a85b21722b5f1c3ee68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_8eda0e7b2933a5d4000f333bb0f216835975e6d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\26e0d6e508c64f05601b61ff5080f80be15f6070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16c548da3bacadce7090a2c840f17df1d57dfbea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\eaf953a596c7182a4ea35ca74bb9d5bef13c91c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24cb877ba79eee91c5c2e7f03866e56f66f68c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\f9aa2ccb16ad3394cd211bcec4f759e992ea6cc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_306158d3d75ea50375f2b286c6cb26467c7357c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d4b12c495c92ade90006d02b62654fd82f9b3f7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5688cdf905c7dc3e91b7ec6a81421e929e8aff3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\7b7968e61f2112aa9ccf58b0078e39a6e888d909\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8190fdc318a9025fe61cc0baa4bc499168cda94a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\c9cb09b809e061926c7c93fb8b4e637796b7a7b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f76258674c0548889fea74cf87961bc56c9536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\581a04a744eea37d02f80820b3843481dfdd3e16\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3d7425bfbfa9628d3166f27a088eda6ffc4cf30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\919f03eec47db4539ee5d5b2b6be2469f0279ddf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2f2b771c903c5e39fb2884085f897f3524eef85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\581a04a744eea37d02f80820b3843481dfdd3e16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3d7425bfbfa9628d3166f27a088eda6ffc4cf30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\53b261f8675fde8688e7df964808db9c9a4644f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_527a97d4398ff2ff0629b92b7365b412b1de65ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\53b261f8675fde8688e7df964808db9c9a4644f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_527a97d4398ff2ff0629b92b7365b412b1de65ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b9d6ad2e890d6c9a6b76b6f627af7944e57400a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9309f663c29e40f24a403100c1e0f08c911d3c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\46ed662ccc91cfb171f9c2755515fc6eb0e1bd37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58782c94fe9bb3c93bfc123bf84df1ebe04c9bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\598ca1fd7c320ef432cc0b6c1e5ccf3f5265081e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0f97b2fb8e65157d6895333231608c66b60bc0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\919f03eec47db4539ee5d5b2b6be2469f0279ddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2f2b771c903c5e39fb2884085f897f3524eef85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bcc0fb647a174a95edce8a9760226fd3ff306f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bd95bba43aeacdc5ec990a527b132043ac9d7ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\69f12a550f4e8de0770249b805809d8787694622\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bd12372c30c9a299113029667af0ee05ca9f354a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bee1cc1c7b06439a245234945a7ba5da6c983bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9043c7e499a7d305f4551792874680a7f08e3c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\aa324a2c9138d81433e5eee761da920dbc59569d\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e80879744977dffd1f747c008ca2fb7bafef1053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\2761b970bfcfd65c13f96573f3430e7ea3a4087f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc8a102133d39371144e92d94274c2ae5034110e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_63f44fb5be3a048a9db70dca81be85df9f104fed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d679042d426abd2573e9e12eb27f343d8dfbe9c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dbc712d3cd461b01b6b395a6b4f7f0119da3253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\70f0cd9f9acfa897e35292ed76659eee9df7e005\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09bd4ac6ce9c4d4c79e8a85b21722b5f1c3ee68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bee1cc1c7b06439a245234945a7ba5da6c983bd\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_dca9af0d0f37bfc32b0db8d57c32aa7fef3eb350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3a7cd16894aca18c1afc698e6c2a95d21c2521a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c38bbf9644a627910e21b5a46acaa1e50d796bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\ae4f7f39653e69fc8c03f2e818aa2934de9bcd96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_184b2b1da03b357dfa75e5d6ffec0f58c693ab0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b8171d6ccad89b37ade7d10d220ea576acb2613b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2674b1842541d5dd8fd16768f8820ac86aad46c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\8bec2afa6618d6544141ff3866ceb01267ed9587\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd533eb927a2e67e4c2a944e066a1da344dfc259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\336db4f783ecb219af4c8e8071e20fff8ee5d91e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cede20605163c272b3365e1c65a60481eef5108b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\ea036df05ce9064d98343b8bfd56d57d62a61b93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d043329c6344586d26b1ddbc4c188f855c69c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_e43f680b491b9d3ff70454a481c21c513b545585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\a9fde5eb2775f99d3bfc507d898417f6f1e21128\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0155020074c896616979d559858a673b3c2995c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\57573425aea13587594fc545b2612207a8669a9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cbcd1815ceabb076c362836a98196c2261d5759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\26e0d6e508c64f05601b61ff5080f80be15f6070\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16c548da3bacadce7090a2c840f17df1d57dfbea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\7b7968e61f2112aa9ccf58b0078e39a6e888d909\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8190fdc318a9025fe61cc0baa4bc499168cda94a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\a4e019aeffdf92e9548cb052f3a49c759f850533\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a82f7919decf5719b33772e927de3484be3b3f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\4c87c5a124b0eaee5c4568894f35e1b0f8134c99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fea941f6d265637e9d0a27d81463ef227f57417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\98dcf3b55595a8030f1ad748ac917fd71fc24bab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09d6f5c20e4dfcc381d325491ea317dcdb0fd79c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\f1492045e92debd26d66eb07da4e783f28053c56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36842f1b94c1ad6f263b75572ffe678d926562b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b7f08c2bf575a59ebbea26671b62da2bed8faa51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6a70bef9e1ced357628ab6ee7310c385b80111c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\326f5fd977418a2359d62db16a33c4a3c0b26a1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0710b6e70f7098170c64c9e1039d8e16edf44fbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\003b06050ad4921b9aa9d28268376ba2aecad238\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0df377e571c3dd4082e49ebcf9a6420be9f646b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Health-Connect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a139de6c3c7f26d6fa17dfe3897e5fd95c24df6">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da48e77ebe8d2907144e41919adb20cf96198a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\beb20a7e2353b6e95159585d2913f2a0de00abe2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86c2ce2b8ed3ef4ce30627d6bb6b8a1726f58457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\9ca84f9d149bbbf1da1f65acebf0fb9147e4a334\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4c3895be0a1ff48229d7db42c501ebbfcf0e5be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\c9cb09b809e061926c7c93fb8b4e637796b7a7b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f76258674c0548889fea74cf87961bc56c9536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d2433be7acd2c47ab22cbbc4b55ee3563d784bdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b3e5b02e66626c42865c39d3c11c0f66e620b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\b7f08c2bf575a59ebbea26671b62da2bed8faa51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6a70bef9e1ced357628ab6ee7310c385b80111c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\9ca84f9d149bbbf1da1f65acebf0fb9147e4a334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4c3895be0a1ff48229d7db42c501ebbfcf0e5be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\c160c4a1ba6f3c3c5897b02fc08518e66c7d495d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00c9df215ecd8cd34030bb7fba93a788fbdfe579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5db5c72dbf75cf673007e0176a61a4522abb362e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be745c384912fe5e740e8085f6e23d0d2748f158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\3dfefb6283117be6d7176201b58d05009b381c24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f3d296af248e7c5b224d8e30dda4c859eab9b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\5a26ba72edefad9d01bb62d50c7d0366dcabd4e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_628c81dec3e22926ba527cfffa4547bcf9c06c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\a9fde5eb2775f99d3bfc507d898417f6f1e21128\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0155020074c896616979d559858a673b3c2995c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\d679042d426abd2573e9e12eb27f343d8dfbe9c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dbc712d3cd461b01b6b395a6b4f7f0119da3253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_10df38a1640bfeb21a54d5b52ad056e8262c98fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\ae4f7f39653e69fc8c03f2e818aa2934de9bcd96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_184b2b1da03b357dfa75e5d6ffec0f58c693ab0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\2761b970bfcfd65c13f96573f3430e7ea3a4087f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc8a102133d39371144e92d94274c2ae5034110e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyeeta\.android\build-cache\1bcc0fb647a174a95edce8a9760226fd3ff306f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="E:\Health-Connect\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bd95bba43aeacdc5ec990a527b132043ac9d7ab\classes.dex" />
+    </item>
+
+</items>

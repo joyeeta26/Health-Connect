@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/dialog_imageview"
+        android:layout_width="240dp"
+        android:layout_height="160dp"
+        android:layout_marginBottom="6sp"
+        android:layout_marginLeft="16sp"
+        android:layout_marginTop="6sp"
+        />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12sp"
+        android:layout_marginRight="12sp"
+        android:layout_marginTop="6sp" />
+
+        <Button
+            android:text="Donate"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bBlood" />
+
+        <Button
+            android:text="Place Request"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bOrgan" />
+
+</LinearLayout>
