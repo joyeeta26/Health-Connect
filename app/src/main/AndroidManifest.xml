@@ -40,7 +40,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR API KEY"/>
+            android:value="AIzaSyBHDU22Gv6S9H38rtfa6TJuyqgnZPYklKQ"/>
 
         <activity android:name=".MapActivity" />
         <activity android:name=".BloodRequest"/>
